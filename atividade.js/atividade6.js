@@ -1,3 +1,5 @@
 var idade1= 15
 var idade2= 16
-console.log(idade1> idade2)
+idade1<idade2
+    ? console.log('MAIS VELHA')
+    : console.log('MAIS NOVA')

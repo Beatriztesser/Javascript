@@ -1,2 +1,2 @@
 var numero= 4
-console.log(typeof numero)
+console.log(typeof numero);
