@@ -3,4 +3,8 @@
 // em caixa alta.
 
 
-function 
+function palavras(string){
+    return string.toUpperCase();
+}
+var a = palavras("beatriz");
+console.log(a)
